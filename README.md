@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi there 👋, I am Sona Angdembe currently studying Bsc.Csit.Fervently interested in backend. 
+
+🟢 I am currently in learning phase, and done handsome amount of the projects too for that feel free to checkout my works.
+
+💥 Please feel free to contact me via DM if you have any suggestions for collaboration on my intresting project.
+
+🎯 And now focusing on my studies.
+
 
 <!--
 **s1o2n3a4/s1o2n3a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
