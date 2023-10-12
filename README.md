@@ -1,10 +1,10 @@
 Hi there 👋, I am Sona Angdembe currently studying Bsc.Csit.Fervently interested in backend. 
 
-🟢 I am currently in learning phase, and done handsome amount of the projects too for that feel free to checkout my works.
+🟢 I am currently in learning phase, and done handsome amount of the projects too for that, feel free to checkout my works.
 
-💥 Please feel free to contact me via DM if you have any suggestions for collaboration on my intresting project.
+💥 And please feel free to contact me via DM if you have any suggestions for collaboration on my intresting project.
 
-🎯 And now focusing on my studies.
+🎯 Now focusing on my studies.
 
 
 <!--
